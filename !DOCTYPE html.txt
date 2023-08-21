@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+span{
+color:blue;
+font-size:22px;
+}
+div{
+width:180px;
+background:#98AFC7;
+margin:auto;
+padding-left:20px;
+padding-top:20px;
+padding-right:20px;
+padding-bottom:20px;
+
+}
+</style>
+</head>
+<body>
+<div>
+<h3><b>STUDENT OF NARESH I</b></h3>
+<form action=result>
+Enter Hall Ticket Number<input type=text name=hno>
+<input type=submit><input type=reset>
+</form>
+</div>
+
+</body>
+</html>
